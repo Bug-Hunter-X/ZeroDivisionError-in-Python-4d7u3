@@ -1,0 +1,1 @@
+This repository contains a simple Python program demonstrating the common `ZeroDivisionError` and its solution. The `bug.py` file showcases the error, while `bugSolution.py` provides a corrected version with error handling.
